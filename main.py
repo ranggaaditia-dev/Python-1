@@ -9,26 +9,3 @@ while BUKU:
         print("SALDO ANDA HANYA CUKUP BELI PULPEN")
     else:
         print("SALDO ANDA TIDAK CUKUP")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
